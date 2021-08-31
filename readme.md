@@ -1,2 +1,2 @@
 # Ring of Fire
-<img src="./image.png/>
+<img src="./image.png"/>
